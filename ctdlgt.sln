@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhanmatran", "nhanmatran\nh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sheelsort", "sheelsort\sheelsort.vcxproj", "{A7E82E68-154F-448B-AA23-A22A659CC37B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quicksort", "quicksort\quicksort.vcxproj", "{B0C59D3D-2A97-4712-A278-09FD60D40F14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A7E82E68-154F-448B-AA23-A22A659CC37B}.Release|x64.Build.0 = Release|x64
 		{A7E82E68-154F-448B-AA23-A22A659CC37B}.Release|x86.ActiveCfg = Release|Win32
 		{A7E82E68-154F-448B-AA23-A22A659CC37B}.Release|x86.Build.0 = Release|Win32
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Debug|x64.ActiveCfg = Debug|x64
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Debug|x64.Build.0 = Debug|x64
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Debug|x86.Build.0 = Debug|Win32
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Release|x64.ActiveCfg = Release|x64
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Release|x64.Build.0 = Release|x64
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Release|x86.ActiveCfg = Release|Win32
+		{B0C59D3D-2A97-4712-A278-09FD60D40F14}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
